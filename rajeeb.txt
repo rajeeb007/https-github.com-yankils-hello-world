@@ -1,1 +1,2 @@
 so this will generate a automated testing in jenkins
+see this will also automatly test the filre
