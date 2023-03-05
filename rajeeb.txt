@@ -1,2 +1,1 @@
-so this will generate a automated testing in jenkins
-see this will also automatly test the filre
+so now what we will do if it is not working means can we leave this like this or we want to do more works on what we are doing now
